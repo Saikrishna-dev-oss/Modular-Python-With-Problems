@@ -51,7 +51,7 @@ Feel free to star ⭐ the repo and check back for updates!
 
 ## 👤 Author
 
-Built by [MANGALI SAI KRISHNA](https://www.linkedin.com/in/saikrishna-dev/) — modular systems architect, civic-tech enthusiast, and collaborative builder.
+Built by [MANGALI SAI KRISHNA](https://www.linkedin.com/in/mangali-sai-krishna/) — modular systems architect, civic-tech enthusiast, and collaborative builder.
 
 
 ---
